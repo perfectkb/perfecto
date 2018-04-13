@@ -18,7 +18,7 @@ PerfectO project created:
 
 December 2016 - Release of the dedicated web site
 
-October 2015 - First paper published about semanbtic web best poratices for Internet of Things (IoT)
+October 2015 - First paper published about semantic web best pratices for Internet of Things (IoT)
 
 Semantic Web Methodologies, Best Practices and Ontology Engineering Applied to Internet of Things [Gyrard et al. 2015]
 

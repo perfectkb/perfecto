@@ -31,22 +31,26 @@ https://www.insight-centre.org/sites/default/files/publications/paperwf-iot2015_
 - Server: Google Cloud Platform (previously called Google Application Engine)
 
 ## Documentation: Semantic Web Best Practices Hadbook for Dummies ##
-This documentation shares a set of semantic best practices
-* Help you improve your ontologies
-* Documentation to help fix errors encountered to design perfect ontologies
-with existing Semantic Web (SemWeb) validation or documentation tools: TripleChecker, OOPS, WebVOWL, Parrot, Vapour, LODE
-* Encouraging semantic interoperability.
+This documentation shares a set of semantic best practices:
 http://perfectsemanticweb.appspot.com/documentation/SemanticWebBestPracticesForDummies.pdf
+
+The documentation aims to:
+* Help improve your ontologies
+* help fix errors encountered to design perfect ontologies with existing Semantic Web (SemWeb) validation or documentation tools such as TripleChecker, OOPS, WebVOWL, Parrot, Vapour, LODE, etc.
+* Encouraging semantic interoperability.
+
 
 ## Documentation to set up the project, code reuse, etc. ##
 Documentation to set up such projects hosted on Google Application Engine:
 http://sensormeasurement.appspot.com/documentation/M3DeveloperDocumentation.pdf
+
 M3 project is a full project, PerfectO is one of the components.
 All components use the same technologies, follow the same implementations and methodologies.
 We aim to make this component as much independent as possible to improve its usability.
 
-Now there is the dedciated PerfectO web site: http://perfectsemanticweb.appspot.com/
+Now, there is the dedciated PerfectO web site: http://perfectsemanticweb.appspot.com/
 
 ## GitHub Useful Links ##
-PerfectKB GitHub:  https://github.com/perfectkb repository for all projects related to the design of the perfect Knowledge Bases (KBs)
-PerfectO Sub-project for Ontology Improvement: https://github.com/perfectkb/perfecto/
+PerfectKB GitHub:  https://github.com/perfectkb repository for all projects related to the design of the perfect Knowledge Bases (KBs).
+
+PerfectO sub-project for Ontology Improvement: https://github.com/perfectkb/perfecto/

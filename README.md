@@ -48,7 +48,22 @@ M3 project is a full project, PerfectO is one of the components.
 All components use the same technologies, follow the same implementations and methodologies.
 We aim to make this component as much independent as possible to improve its usability.
 
-Now, there is the dedciated PerfectO web site: http://perfectsemanticweb.appspot.com/
+Now, there is the dedicated PerfectO web site: http://perfectsemanticweb.appspot.com/
+
+
+## PerfectO is part of the M3 community ##
+We encourage you to contact us, so we can advise you for the reuse of the project, it helps us to improve its reusability, improve the bugs, etc.
+
+Google Group:
+https://groups.google.com/forum/#!forum/m3-semantic-web-of-things
+
+You can follow us on social networks to stay updated:
+http://sensormeasurement.appspot.com/?p=socialNetworks
+- Twitter
+- YouTube for Videos
+- Google Scholar
+- Etc.
+
 
 ## GitHub Useful Links ##
 PerfectKB GitHub:  https://github.com/perfectkb repository for all projects related to the design of the perfect Knowledge Bases (KBs).

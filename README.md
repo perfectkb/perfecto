@@ -1,4 +1,4 @@
-# perfecto
+# PerfectO
 Perfecto - ontology improvement methodology
 
 

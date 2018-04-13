@@ -30,7 +30,7 @@ https://www.insight-centre.org/sites/default/files/publications/paperwf-iot2015_
 - Semantic Web technologies: RDF, RDFS, OWL, SPARQl, Jena, Ontologies
 - Server: Google Cloud Platform (previously called Google Application Engine)
 
-## Documentation: Semantic Web Best Practices Hadbook for Dummies ##
+## Documentation: Semantic Web Best Practices Handbook for Dummies ##
 This documentation shares a set of semantic best practices:
 http://perfectsemanticweb.appspot.com/documentation/SemanticWebBestPracticesForDummies.pdf
 
